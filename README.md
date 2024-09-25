@@ -1,1 +1,1 @@
-# tic-toc-toe-game
+# tic-toc-toe-game using html css and javascript.The game will feature a 3*3 grid where two player (player x and player o) can take turn to marks theire symbols with the goal of getting three in a row (horizontally, vertically, or diagonally). 
